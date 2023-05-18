@@ -1,6 +1,6 @@
 <?php
 
-namespace App\View\Components;
+namespace Valeravilks\Composercomponents\Components\View\Components;
 
 use Closure;
 use Illuminate\Contracts\View\View;
