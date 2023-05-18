@@ -1,0 +1,17 @@
+{
+    "name": "valeravilks/composercomponents",
+    "autoload": {
+        "psr-4": {
+            "Valeravilks\\Composercomponents\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Valera-V",
+            "email": "valera@dreamersofday.co"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^8.0"
+    }
+}
