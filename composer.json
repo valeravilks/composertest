@@ -3,7 +3,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "ProtoneMedia\\LaravelFormComponents\\FormDataBinder"
+                "ProtoneMedia\\LaravelFormComponents\\Support\\ServiceProvider"
             ]
         }
     },
