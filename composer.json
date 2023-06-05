@@ -1,5 +1,12 @@
 {
     "name": "valeravilks/composercomponents",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ProtoneMedia\\LaravelFormComponents\\FormDataBinder"
+            ]
+        }
+    },
     "autoload": {
         "psr-4": {
             "Valeravilks\\Composercomponents\\": "src/"
