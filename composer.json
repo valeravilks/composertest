@@ -20,6 +20,6 @@
     ],
     
     "require": {
-        "laravel/framework": "^10.8"
+        "illuminate/support": "^9.0 || ^10.0"
     }
 }
