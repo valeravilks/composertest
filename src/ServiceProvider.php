@@ -16,6 +16,7 @@ class ServiceProvider extends BaseServiceProvider
     {
 
         $this->loadViewsFrom(__DIR__ . '/../../resources/views', 'form-components');
+        // Blade::componentNamespace('Nightshade\\Views\\Components', 'nightshade');
     }
 
 }

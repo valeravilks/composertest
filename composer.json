@@ -1,7 +1,7 @@
 {
     "name": "valeravilks/composercomponents",
     "extra": {
-        "laravel": {
+        "acorn": {
             "providers": [
                 "ProtoneMedia\\LaravelFormComponents\\Support\\ServiceProvider"
             ]
